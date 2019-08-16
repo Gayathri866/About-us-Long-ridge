@@ -23125,6 +23125,10 @@ body.single-portfolio_companies .site-footer {
 	}
 }
 
+.what-we-do article .details{
+	padding-top: 0px !important;
+}
+
 .our-culture .text-container .details {
 	max-width: 380px;
 	margin-top: 80px;
@@ -30635,4 +30639,8 @@ body .gform_wrapper.gf_form_center_wrapper {
 		top: 50%;
 		transform: translateY(-25%)
 	}
+}
+
+.customImage{
+	background-image: url('./Images/footer-blue-mountain.jpg');
 }
