@@ -22868,13 +22868,13 @@ body.single-portfolio_companies .site-footer {
 
 @media screen and (max-width: 74.9375em) {
 	.about-overview {
-		padding-bottom: 600px
+		/* padding-bottom: 600px */
 	}
 }
 
 @media screen and (max-width: 56.1875em) {
 	.about-overview {
-		padding-bottom: 400px;
+		/* padding-bottom: 400px; */
 		margin-top: 40px !important;
 		padding-top: 60px
 	}
@@ -22887,13 +22887,13 @@ body.single-portfolio_companies .site-footer {
 
 @media screen and (max-width: 39.9375em) {
 	.about-overview {
-		padding-bottom: 300px
+		/* padding-bottom: 300px */
 	}
 }
 
 @media screen and (max-width: 26.1875em) {
 	.about-overview {
-		padding-bottom: 250px;
+		/* padding-bottom: 250px; */
 		padding-top: 40px
 	}
 }
@@ -23092,7 +23092,7 @@ body.single-portfolio_companies .site-footer {
 
 @media screen and (max-width: 63.9375em) {
 	.our-culture .text-container {
-		padding-top: 180px;
+		padding-top: 30px !important;
 		padding-bottom: 15px
 	}
 }
